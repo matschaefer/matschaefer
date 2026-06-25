@@ -1,4 +1,4 @@
-### Hey 👋, I'm Matthias Schäfer.
+### Hey 👋, I'm Matthias.
 
 <a href="https://www.linkedin.com/in/matthias-schaefer-duesseldorf">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linkedin.svg" />
