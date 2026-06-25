@@ -1,58 +1,72 @@
-<h1 align="center">Hey, ich bin Matthias 👋</h1>
+### Hey 👋, I'm Matthias Schäfer.
 
-<p align="center">
-  Fullstack Developer · Ausbildung @ Deloitte · Azure AZ-900
-</p>
+<a href="https://www.linkedin.com/in/matthias-schaefer-duesseldorf">
+  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/matschaefer">
+  <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="mailto:matschaefer@outlook.de">
+  <img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/microsoftoutlook.svg" />
+</a>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/matthias-schaefer-duesseldorf">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Düsseldorf-Germany-lightgrey?style=flat" />
-</p>
+<br />
+<br />
 
----
+- I started out building websites for small businesses with my own **digital agency.**
+- I enjoy creating things that are **clean, structured and actually useful.**
+- I like working across the full stack — but I have a soft spot for **well-designed backends.**
+- I used to think enterprise software was boring.
+- Then I started my apprenticeship at **Deloitte** and realized: **the problems are actually interesting. 💡**
 
-### Was ich gerade baue
+<img align="right" alt="coding" width="250px" src="https://cdn.jsdelivr.net/gh/matschaefer/matschaefer@main/assets/coding.gif" />
 
-🔧 **freelance-crm** — Kundenverwaltung & Angebotserstellung für Selbstständige  
-`ASP.NET Core` · `Angular` · `PostgreSQL` · `Azure` · `Docker`
+**Talking about Personal Stuffs:**
 
----
+- 🏢 I'm currently doing my apprenticeship at **Deloitte**, Düsseldorf.
+- 💻 Focus is on **Fullstack Development with .NET & Angular**.
+- 🌱 I'm currently learning **Clean Architecture, Azure & Docker**.
+- 🏋️ My hobbies are **strength training and martial arts**.
+- 🌍 Languages: **German, Arabic, English** — and slowly learning code every day.
+- 💬 If you have any questions, **just ask me**.
 
-### Stack
+**Languages and Tools:**
 
-**Backend**  
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
-![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat&logo=postman&logoColor=white)
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/csharp.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/dotnet.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/angular.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/react.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/typescript.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/javascript.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/postgresql.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/git.svg"></code>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=matschaefer&count_private=true&show_icons=true" alt="matschaefer" />
 
-**Frontend**  
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+**Technology being learned**
 
-**Cloud & DevOps**  
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/microsoftazure.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/docker.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/redis.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/githubactions.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linux.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/python.svg"></code>
 
----
+**Favorite sites**
 
-### GitHub Stats
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/github.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/google.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/stackoverflow.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/youtube.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/microsoft.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/visualstudiocode.svg"></code>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matschaefer&show_icons=true&hide_border=true&theme=default&hide=stars" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matschaefer&layout=compact&hide_border=true&theme=default" height="150" />
-</p>
+📊 **My recent programming status:**
+<!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
+
+**If you like this readme file, please give me a star! ❤️**
